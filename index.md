@@ -19,3 +19,5 @@ I am interested in Natural Language Processing topics, more specifically:
     Document-level evaluation of NLP tasks outputs
     Readability assessment
     Automatic construction of computational lexical resources 
+    
+Since 2018 I am the Secretary for the [European Association for Machine Translation (EAMT)](http://eamt.org).

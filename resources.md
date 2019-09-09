@@ -4,7 +4,7 @@ title: Resources and Tools
 ---
 
 # Tools
-- SIMPATICO TAE: text adaptation engine for the SIMPATICO project \[[GIT]\](https://github.com/SIMPATICOProject/SimpaticoTAEServer/tree/master)
+- SIMPATICO TAE: text adaptation engine for the SIMPATICO project [[GIT](https://github.com/SIMPATICOProject/SimpaticoTAEServer/tree/master)]
 - QuEst++: an open source framework for pipelined translation quality estimation [LINK](http://www.quest.dcs.shef.ac.uk/) [GIT](https://github.com/ghpaetzold/questplusplus)
 - VerbNet.Br: a VerbNet for Brazilian Portuguese (search interface) [LINK](http://nilc.icmc.usp.br/verbnetbr/)
 - PortLex: portal to make available computational lexical resources of Portuguese language [LINK](http://nilc.icmc.usp.br/portlex/index.php/en/)

@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications
-subtitle: Selected Publications
 ---
 
 Alternative links for a list of my publications: [Google Scholar](https://scholar.google.com/citations?user=e6YOuiQAAAAJ) and [Lattes](http://lattes.cnpq.br/3421026578721604).

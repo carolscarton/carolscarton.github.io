@@ -12,10 +12,10 @@ title: Resources and Tools
 - WordNet.Br: search Interface (sorry, portuguese only) [[LINK](http://nilc.icmc.usp.br/wordnetbr/)]
 
 # Resources
-- Tagger model for Galician: Stanford CoreNLP tagger [DOWNLOAD]
-- Dependency parser model for Galician: Stanford CoreNLP dependency parser [DOWNLOAD]
+- Tagger model for Galician: Stanford CoreNLP tagger [[DOWNLOAD](https://github.com/carolscarton/galician-corenlp-resources)]
+- Dependency parser model for Galician: Stanford CoreNLP dependency parser [[DOWNLOAD](https://github.com/carolscarton/galician-corenlp-resources)]
 - CREG-MT-EVAL: a corpus reading comprehension corpus for MT evaluation [[GIT](https://github.com/carolscarton/CREG-MT-eval) [Original CREG corpus](http://www.sfs.uni-tuebingen.de/en/tcl/resources/corpora.html)]
-- VerbNet.Br: a VerbNet for Brazilian Portuguese (database) [DOWNLOAD]
+- VerbNet.Br: a VerbNet for Brazilian Portuguese (database) [[DOWNLOAD](http://staffwww.dcs.shef.ac.uk/people/C.Scarton/resources/verbnetbr.tar.gz)]
 
 # Slides, PDFs and more
 - Keynote talk at ROME 2019 - SIGIR 2019 collocated workshop - Paris, France (25/07/2019) [SLIDES]

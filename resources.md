@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Resources and Tools
-subtitle: Resources and Tools
 ---
 
 # Tools

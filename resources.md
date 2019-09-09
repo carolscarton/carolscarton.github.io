@@ -1,3 +1,9 @@
+---
+layout: page
+title: Resources and Tools
+subtitle: Resources and Tools
+---
+
 # Tools
 - SIMPATICO TAE: text adaptation engine for the SIMPATICO project [GIT]
 - QuEst++: an open source framework for pipelined translation quality estimation [LINK] [GIT]

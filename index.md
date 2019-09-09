@@ -2,6 +2,8 @@
 layout: page
 title: Carolina Scarton
 subtitle: Academic Fellow, University of Sheffield
+bigimg:
+  - "/img/2016-04-26 09.04.12.jpg" : "Summer"
 ---
 
 I am an Academic Fellow at the [Department of Computer Science](https://www.sheffield.ac.uk/dcs), University of Sheffield, UK. I am a member of the [Natural Language Processing group](https://www.sheffield.ac.uk/dcs/research/groups/nlp) and part of the [GATE team](https://gate.ac.uk/). Previously, I worked as a Research Associate for the [WeVerify](https://weverify.eu/) (from March 2019 to August 2019) and [SIMPATICO](https://www.simpatico-project.eu/) (from July 2016 to February 2019) projects.

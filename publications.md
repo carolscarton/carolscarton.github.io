@@ -3,10 +3,11 @@ layout: page
 title: Publications
 ---
 
-Alternative links for a list of my publications: [Google Scholar](https://scholar.google.com/citations?user=e6YOuiQAAAAJ) and [Lattes](http://lattes.cnpq.br/3421026578721604).
+Alternative links for a list of my publications: [Google Scholar](https://scholar.google.com/citations?user=e6YOuiQAAAAJ).
 
 # 2019
-- Fernando Alva-Manchego, Louis Martin, Carolina Scarton and Lucia Specia (2019): EASSE: Easier Automatic Sentence Simplification Evaluation. To appear in the Proceedings of EMNLP 2019 (demonstration systems), Hong Kong, China. [[PDF](https://arxiv.org/pdf/1908.04567.pdf)]
+- Fernando Alva-Manchego, Louis Martin, Carolina Scarton and Lucia Specia (2019): EASSE: Easier Automatic Sentence Simplification Evaluation. Proceedings of EMNLP 2019 (demonstration systems), Hong Kong, China, pp. 49-54. [[PDF](https://www.aclweb.org/anthology/D19-3009.pdf)]
+- Carolina Scarton, Mikel L. Forcada, Miquel Esplà-Gomis and Lucia Specia (2019): Estimating post-editing effort: a study on human judgements, task-based and reference-based metrics. Proceedings of IWSLT 2019, Hong Kong, China. [[PDF](https://arxiv.org/pdf/1910.06204.pdf)]
 - Fernando Alva-Manchego, Carolina Scarton and Lucia Specia (2019): Cross-Sentence Transformations in Text Simplification. In the Proceedings of the 2019 Workshop on Widening NLP, Florence, Italy, pp. 181-184. [[PDF](https://www.aclweb.org/anthology/W19-3656/)]
 
 # 2018

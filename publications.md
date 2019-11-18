@@ -6,6 +6,7 @@ title: Publications
 Alternative links for a list of my publications: [Google Scholar](https://scholar.google.com/citations?user=e6YOuiQAAAAJ).
 
 # 2019
+- Carolina Scarton (n.d.). Horacio Saggion, Automatic Text Simplification. Synthesis lectures on human language technologies, April 2017. 137 pages, ISBN:16270586809781627058681. Natural Language Engineering, 1-4. [doi:10.1017/S1351324919000603](http://dx.doi.org/10.1017/S1351324919000603)
 - Fernando Alva-Manchego, Louis Martin, Carolina Scarton and Lucia Specia (2019): EASSE: Easier Automatic Sentence Simplification Evaluation. Proceedings of EMNLP 2019 (demonstration systems), Hong Kong, China, pp. 49-54. [[PDF](https://www.aclweb.org/anthology/D19-3009.pdf)]
 - Carolina Scarton, Mikel L. Forcada, Miquel Esplà-Gomis and Lucia Specia (2019): Estimating post-editing effort: a study on human judgements, task-based and reference-based metrics. Proceedings of IWSLT 2019, Hong Kong, China. [[PDF](https://arxiv.org/pdf/1910.06204.pdf)]
 - Fernando Alva-Manchego, Carolina Scarton and Lucia Specia (2019): Cross-Sentence Transformations in Text Simplification. In the Proceedings of the 2019 Workshop on Widening NLP, Florence, Italy, pp. 181-184. [[PDF](https://www.aclweb.org/anthology/W19-3656/)]

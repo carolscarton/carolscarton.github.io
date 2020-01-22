@@ -4,6 +4,7 @@ title: Resources and Tools
 ---
 
 # Tools
+- Stance classifier for Twitter replies [[GIT](https://github.com/GateNLP/StanceClassifier)]
 - SIMPATICO TAE: text adaptation engine for the SIMPATICO project [[GIT](https://github.com/SIMPATICOProject/SimpaticoTAEServer/tree/master)]
 - QuEst++: an open source framework for pipelined translation quality estimation [[LINK](http://www.quest.dcs.shef.ac.uk/)] [[GIT](https://github.com/ghpaetzold/questplusplus)]
 - VerbNet.Br: a VerbNet for Brazilian Portuguese (search interface) [[LINK](http://nilc.icmc.usp.br/verbnetbr/)]
@@ -18,6 +19,7 @@ title: Resources and Tools
 - VerbNet.Br: a VerbNet for Brazilian Portuguese (database) [[DOWNLOAD](http://staffwww.dcs.shef.ac.uk/people/C.Scarton/resources/verbnetbr.tar.gz)]
 
 # Slides, PDFs and more
+- Keynote talk at TOFFEE 2019 - Lucca, Italy (24-25/10/2019)
 - Keynote talk at ROME 2019 - SIGIR 2019 collocated workshop - Paris, France (25/07/2019) [SLIDES]
 - Quality Estimation for Language Output Applications Tutorial - Presented at COLING 2016, Osaka, Japan (11/12/2016) [[LINK](http://coling2016.anlp.jp/tutorials/T4/)]
 - Translation Quality Estimation - Presented at PROPOR 2016, Tomar, Portugal (13/07/2016) [[LINK](http://propor2016.di.fc.ul.pt/?page_id=705)]

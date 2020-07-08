@@ -5,6 +5,13 @@ title: Publications
 
 Alternative links for a list of my publications: [Google Scholar](https://scholar.google.com/citations?user=e6YOuiQAAAAJ).
 
+# 2020
+- Fernando Alva-Manchego, Louis Martin, Antoine Bordes, Carolina Scarton, Benoît Sagot, Lucia Specia (2020). ASSET: A Dataset for Tuning and Evaluation of Sentence Simplification Models with Multiple Rewriting Transformations. Proceedings of ACL 2020, virtual conference, pp. 4668-4679. [[PDF](https://www.aclweb.org/anthology/2020.acl-main.424/)]
+- Fernando Alva-Manchego, Carolina Scarton, Lucia Specia (2020). Data-driven sentence simplification: Survey and benchmark. Computational Linguistics, 46(1):135-187, MIT Press. [[PDF](https://www.mitpressjournals.org/doi/abs/10.1162/COLI_a_00370)]
+- Roney Santos, Gabriela Pedro, Sidney Leal, Oto Vale, Thiago Pardo, Kalina Bontcheva, Carolina Scarton (2020). Measuring the Impact of Readability Features in Fake News Detection. Proceedings of LREC 2020, pp. 1404-1413. [[PDF](https://www.aclweb.org/anthology/2020.lrec-1.176/)]
+- Gabriela Wick-Pedro, Roney LS Santos, Oto A Vale, Thiago AS Pardo, Kalina Bontcheva, Carolina Scarton (2020). Linguistic Analysis Model for Monitoring User Reaction on Satirical News for Brazilian Portuguese. Proceedings of PROPOR 2020, Évora, Portugal, pp. 313-320. [[LINK](https://link.springer.com/chapter/10.1007/978-3-030-41505-1_30)]
+
+
 # 2019
 - Carolina Scarton (n.d.). Horacio Saggion, Automatic Text Simplification. Synthesis lectures on human language technologies, April 2017. 137 pages, ISBN:16270586809781627058681. Natural Language Engineering, 1-4. [doi:10.1017/S1351324919000603](http://dx.doi.org/10.1017/S1351324919000603)
 - Fernando Alva-Manchego, Louis Martin, Carolina Scarton and Lucia Specia (2019): EASSE: Easier Automatic Sentence Simplification Evaluation. Proceedings of EMNLP 2019 (demonstration systems), Hong Kong, China, pp. 49-54. [[PDF](https://www.aclweb.org/anthology/D19-3009.pdf)]

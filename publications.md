@@ -6,6 +6,7 @@ title: Publications
 Alternative links for a list of my publications: [Google Scholar](https://scholar.google.com/citations?user=e6YOuiQAAAAJ).
 
 # 2020
+- Carolina Scarton, Pranava Swaroop Madhyastha, Lucia Specia (2020). Deciding When, How and for Whom to Simplify. Proceedings of ECAI 2020, virtual conference. [[PDF](https://ecai2020.eu/papers/1262_paper.pdf)]
 - Fernando Alva-Manchego, Louis Martin, Antoine Bordes, Carolina Scarton, Benoît Sagot, Lucia Specia (2020). ASSET: A Dataset for Tuning and Evaluation of Sentence Simplification Models with Multiple Rewriting Transformations. Proceedings of ACL 2020, virtual conference, pp. 4668-4679. [[PDF](https://www.aclweb.org/anthology/2020.acl-main.424/)]
 - Fernando Alva-Manchego, Carolina Scarton, Lucia Specia (2020). Data-driven sentence simplification: Survey and benchmark. Computational Linguistics, 46(1):135-187, MIT Press. [[PDF](https://www.mitpressjournals.org/doi/abs/10.1162/COLI_a_00370)]
 - Roney Santos, Gabriela Pedro, Sidney Leal, Oto Vale, Thiago Pardo, Kalina Bontcheva, Carolina Scarton (2020). Measuring the Impact of Readability Features in Fake News Detection. Proceedings of LREC 2020, pp. 1404-1413. [[PDF](https://www.aclweb.org/anthology/2020.lrec-1.176/)]

@@ -15,12 +15,12 @@ In 2017, I was awarded a PhD degree in Computer Science from the University of S
 I also have a master's degree from the University of São Paulo, Brazil (awarded in 2013). My supervisor was Dr. Sandra Aluísio and I was a member of the [Interinstitutional Center for Computational Linguistics (NILC)](http://nilc.icmc.usp.br/nilc/index.php).
 
 I am interested in Natural Language Processing topics, more specifically:
+- Online content verification (misinformation detection)
 - Personalised NLP
 - Text simplification
-- Online content verification (misinformation detection)
+- Machine Translation
 - Quality estimation of machine translation
 - Document-level evaluation of NLP tasks outputs
 - Readability assessment
-- Automatic construction of computational lexical resources 
     
-I am the Secretary for the [European Association for Machine Translation (EAMT)](http://eamt.org) (elected in 2018). Since 2019, I am also the Secretary for the [International Association for Machine Translation (IAMT)](http://www.eamt.org/iamt.php).
+I am the Secretary for the [European Association for Machine Translation (EAMT)](http://eamt.org) (since 2018, re-elected in 2020). Since 2019, I am also the Secretary for the [International Association for Machine Translation (IAMT)](http://www.eamt.org/iamt.php).

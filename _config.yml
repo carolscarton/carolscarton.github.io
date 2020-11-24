@@ -20,6 +20,7 @@ description: Academic Fellow
 
 # List of links in the navigation bar
 navbar-links:
+  Team: "team"
   Publications: "publications"
   Resources and Tools: "resources"
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"

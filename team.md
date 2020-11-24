@@ -4,7 +4,7 @@ title: Team
 ---
 
 # PhD students
-- Iknoor Singh (co-supervised with Kalina Bontcheva)
+- [Iknoor Singh](https://iknoorjobs.github.io) (co-supervised with Kalina Bontcheva)
 - Sebastian T. Vincent (co-supervised with Loic Barrault)
 - Fernando Alva (co-supervised with Lucia Specia)
 

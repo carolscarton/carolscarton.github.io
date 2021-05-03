@@ -5,6 +5,9 @@ title: Publications
 
 Alternative links for a list of my publications: [Google Scholar](https://scholar.google.com/citations?user=e6YOuiQAAAAJ).
 
+# 2021
+- Marcos García, Tiago Kramer Vieira, Carolina Scarton, Marco Idiart, Aline Villavicencio (2021). Probing for idiomaticity in vector space models. Proceedings of the 16th EACL, virtual conference, pp. 3551–3564. [[PDF](https://www.aclweb.org/anthology/2021.eacl-main.310/)]
+
 # 2020
 - Carolina Scarton, Diego F Silva, Kalina Bontcheva (2020). Measuring What Counts: The case of Rumour Stance Classification. Proceedings of the 1st AACL and 10th IJCNLP, virtual conference, pp. 925–932. [[PDF](https://www.aclweb.org/anthology/2020.aacl-main.92.pdf)]
 - João A Leite, Diego F Silva, Kalina Bontcheva, Carolina Scarton (2020). Toxic Language Detection in Social Media for Brazilian Portuguese: New Dataset and Multilingual Analysis. Proceedings of the 1st AACL and 10th IJCNLP, virtual conference, pp. 914–924. [[PDF](https://www.aclweb.org/anthology/2020.aacl-main.91.pdf)]

@@ -8,7 +8,7 @@ title: Research
 - Melissa Thong (co-supervised with [Kalina Bontcheva](https://www.sheffield.ac.uk/dcs/people/academic/kalina-bontcheva))
 - Edward Gow-Smith (co-supervised with [Aline Villavicencio](https://www.sheffield.ac.uk/dcs/people/academic/aline-villavicencio))
 - [Iknoor Singh](https://iknoorjobs.github.io) (co-supervised with [Kalina Bontcheva](https://www.sheffield.ac.uk/dcs/people/academic/kalina-bontcheva))
-- Sebastian T. Vincent (co-supervised with [Loic Barrault](https://loicbarrault.github.io))
+- [Sebastian T. Vincent](http://staffwww.dcs.shef.ac.uk/people/S.Vincent/) (co-supervised with [Loic Barrault](https://loicbarrault.github.io))
 
 # Interns 
 - Yue Li

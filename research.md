@@ -4,6 +4,7 @@ title: Research
 ---
 
 # PhD students
+- Yue Li (co-supervised with [Kalina Bontcheva](https://www.sheffield.ac.uk/dcs/people/academic/kalina-bontcheva))
 - Tomas Goldsack (co-supervised with [Chenghua Lin](https://www.sheffield.ac.uk/dcs/people/academic/chenghua-lin))
 - Melissa Thong (co-supervised with [Kalina Bontcheva](https://www.sheffield.ac.uk/dcs/people/academic/kalina-bontcheva))
 - Edward Gow-Smith (co-supervised with [Aline Villavicencio](https://www.sheffield.ac.uk/dcs/people/academic/aline-villavicencio))
@@ -11,7 +12,7 @@ title: Research
 - [Sebastian T. Vincent](http://staffwww.dcs.shef.ac.uk/people/S.Vincent/) (co-supervised with [Loic Barrault](https://loicbarrault.github.io))
 
 # Interns 
-- Yue Li
+- [Freddy Heppell](https://freddyheppell.com) 
 
 # Former students
 - [Fernando Alva](https://feralvam.github.io) (co-supervised with [Lucia Specia](https://www.imperial.ac.uk/people/l.specia))

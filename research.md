@@ -23,4 +23,5 @@ title: Research
 - [Roney Lira de Sales Santos](https://github.com/roneysco) (University of São Paulo, Brazil)
 - Gabriela Wick Pedro (Federal University of São Carlos, Brazil)
 - Iknoor Singh (Panjab University)
+- Yue Li
 

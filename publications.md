@@ -6,6 +6,9 @@ title: Publications
 Alternative links for a list of my publications: [Google Scholar](https://scholar.google.com/citations?user=e6YOuiQAAAAJ).
 
 # 2021
+- Iknoor Singh, Carolina Scarton, Kalina Bontcheva (2021): Multistage BiCross encoder for multilingual access to COVID-19 health information. PloS one 16 (9), e0256874. [[LINK](https://doi.org/10.1371/journal.pone.0256874)]
+- Fernando Alva-Manchego, Carolina Scarton, Lucia Specia (2021): The (Un) Suitability of Automatic Evaluation Metrics for Text Simplification. Computational Linguistics, pp. 1-29. [[LINK](https://doi.org/10.1162/coli_a_00418)]
+- Marcos García, Tiago Kramer Vieira, Carolina Scarton, Marco Idiart, Aline Villavicencio (2021). Assessing the Representations of Idiomaticity in Vector Models with a Noun Compound Dataset Labeled at Type and Token Levels. Proceedings of the 59th ACL and the 11th IJCNLP, virtual conference, pp. 2730–2741. [[PDF](https://aclanthology.org/2021.acl-long.212.pdf)]
 - Marcos García, Tiago Kramer Vieira, Carolina Scarton, Marco Idiart, Aline Villavicencio (2021). Probing for idiomaticity in vector space models. Proceedings of the 16th EACL, virtual conference, pp. 3551–3564. [[PDF](https://www.aclweb.org/anthology/2021.eacl-main.310/)]
 
 # 2020

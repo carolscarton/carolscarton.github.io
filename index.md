@@ -1,14 +1,14 @@
 ---
 layout: page
 title: Carolina Scarton
-subtitle: Lecturer in Natural Language Processing, University of Sheffield
+subtitle: Lecturer in Natural Language Processing, The University of Sheffield
 bigimg:
   - "/img/2016-04-26 09.04.12.jpg" : "Spring"
   - "/img/2016-11-02 10.22.54.jpg" : "Autumn"
   - "/img/2018-03-01 10.52.54.jpg" : "Winter"
 ---
 
-I am a Lecturer at the [Department of Computer Science](https://www.sheffield.ac.uk/dcs), University of Sheffield, UK. I am a member of the [Natural Language Processing group](https://www.sheffield.ac.uk/dcs/research/groups/nlp) and part of the [GATE team](https://gate.ac.uk/). Previously, I worked as an Academic Fellow at The University of Sheffield (from September 2019 to November 2021) and as a Research Associate for the [WeVerify](https://weverify.eu/) (from March 2019 to August 2019) and [SIMPATICO](https://www.simpatico-project.eu/) (from July 2016 to February 2019) projects.
+I am a Lecturer at the [Department of Computer Science](https://www.sheffield.ac.uk/dcs), The University of Sheffield, UK. I am a member of the [Natural Language Processing group](https://www.sheffield.ac.uk/dcs/research/groups/nlp) and part of the [GATE team](https://gate.ac.uk/). Previously, I worked as an Academic Fellow at The University of Sheffield (from September 2019 to November 2021) and as a Research Associate for the [WeVerify](https://weverify.eu/) (from March 2019 to August 2019) and [SIMPATICO](https://www.simpatico-project.eu/) (from July 2016 to February 2019) projects.
 
 In 2017, I was awarded a PhD degree in Computer Science from the University of Sheffield with the thesis entitled "Document-level Machine Translation Quality Estimation". My PhD was funded by the [EXPERT](http://expert-itn.eu/) project (a Marie Curie ITN network) and my supervisor was Professor Lucia Specia.
 

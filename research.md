@@ -15,7 +15,7 @@ title: Research
 - [Sebastian T. Vincent](http://staffwww.dcs.shef.ac.uk/people/S.Vincent/) (co-supervised with [Loic Barrault](https://loicbarrault.github.io))
 
 # Former students
-- [Fernando Alva](https://feralvam.github.io) (co-supervised with [Lucia Specia](https://www.imperial.ac.uk/people/l.specia))
+- [Fernando Alva](https://feralvam.github.io) (now a Lecturer at Cardiff University)
 
 # Former interns and vistors
 - [Matheus Vargas Volpon Berto](https://bv.fapesp.br/en/pesquisador/716782/matheus-vargas-volpon-berto) (Federal University of São Carlos, Brazil)

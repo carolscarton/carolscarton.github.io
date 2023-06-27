@@ -18,6 +18,7 @@ title: Research
 - [Iknoor Singh](https://www.sheffield.ac.uk/dcs/people/research-staff/iknoor-singh), Research Assistant
 
 # PhD students
+- Andrey Tagarev (co-supervised with [Kalina Bontcheva](https://www.sheffield.ac.uk/dcs/people/academic/kalina-bontcheva))
 - [João Augusto Leite](https://github.com/JAugusto97) (co-supervised with [Kalina Bontcheva](https://www.sheffield.ac.uk/dcs/people/academic/kalina-bontcheva))
 - [Freddy Heppell](https://freddyheppell.com) (co-supervised with [Kalina Bontcheva](https://www.sheffield.ac.uk/dcs/people/academic/kalina-bontcheva))
 - [Tom Pickard](https://scholar.google.co.uk/citations?hl=en&user=UYm_kHQAAAAJ) (co-supervised with [Aline Villavicencio](https://www.sheffield.ac.uk/dcs/people/academic/aline-villavicencio))

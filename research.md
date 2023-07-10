@@ -14,7 +14,7 @@ title: Research
 - [Olesya Razuvayevskaya](https://www.sheffield.ac.uk/dcs/people/research-staff/olesya-razuvayevskaya), vera.ai Research Assistant
 - [Wei He](https://www.sheffield.ac.uk/dcs/people/research-staff/wei-he), MIA Research Assistant
 - [Yue Li](https://www.sheffield.ac.uk/dcs/people/research-staff/yue-li), EDMO Ireland Research Assistant
-- [Yida Mu](https://www.sheffield.ac.uk/dcs/people/research-staff/yida-mu), VIGILANT Research Assistant
+- [Ibrahim Abu Farha](https://iabufarha.github.io), VIGILANT Research Assistant
 - [Iknoor Singh](https://www.sheffield.ac.uk/dcs/people/research-staff/iknoor-singh), Research Assistant
 
 # PhD students

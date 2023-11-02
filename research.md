@@ -29,6 +29,9 @@ title: Research
 - [Iknoor Singh](https://iknoorjobs.github.io) (co-supervised with [Kalina Bontcheva](https://www.sheffield.ac.uk/dcs/people/academic/kalina-bontcheva))
 - [Sebastian T. Vincent](http://staffwww.dcs.shef.ac.uk/people/S.Vincent/)
 
+# Visitors
+- [Letícia Bossatto Marchezi](https://sites.google.com/site/lalicufscar/pessoas/let%C3%ADcia-bossatto-marchezi?authuser=0) (Federal University of São Carlos, Brazil)
+
 # Past projects and more
 
 ## Past funded projects

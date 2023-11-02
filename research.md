@@ -4,6 +4,7 @@ title: Research
 ---
 
 # Current funded projects
+- ExU:AI Models for Examining Multilingual Disinformation Narratives and Understanding their Spread, EMIF, 2023 - 2025, as PI
 - [VIGILANT: Vital IntelliGence to Investigate ILlegAl DisiNformaTion](https://www.vigilantproject.eu), Horizon Europe, 2022 - 2025, as Scientific Coordinator and Sheffield PI
 - [EDMO Ireland](https://edmohub.ie), EC, 2021 - 2023, as Sheffield PI
 - [vera.ai: VERification Assisted by Artificial Intelligence](https://www.veraai.eu/home), Horizon Europe, 2022 - 2025, as Co-PI
@@ -15,7 +16,7 @@ title: Research
 - [Wei He](https://www.sheffield.ac.uk/dcs/people/research-staff/wei-he), MIA Research Assistant
 - [Yue Li](https://www.sheffield.ac.uk/dcs/people/research-staff/yue-li), EDMO Ireland Research Assistant
 - [Ibrahim Abu Farha](https://iabufarha.github.io), VIGILANT Research Assistant
-- [Iknoor Singh](https://www.sheffield.ac.uk/dcs/people/research-staff/iknoor-singh), Research Assistant
+- [Iknoor Singh](https://www.sheffield.ac.uk/dcs/people/research-staff/iknoor-singh), EDMO Ireland Research Assistant
 
 # PhD students
 - Andrey Tagarev (co-supervised with [Kalina Bontcheva](https://www.sheffield.ac.uk/dcs/people/academic/kalina-bontcheva))

@@ -30,7 +30,7 @@ title: Research
 - [Ahmad Zareie](https://www.sheffield.ac.uk/dcs/people/research-staff/ahmad-zareie)
 - [Wei He](https://www.linkedin.com/in/wei-he-b44ba0157/)
 - [Jake Vasilakes](https://www.linkedin.com/in/jvasilakes/)
-- [Ibrahim Abu Farha]([https://iabufarha.github.io](https://www.linkedin.com/in/ibrahim-abu-farha-82720b153/))
+- [Ibrahim Abu Farha]([https://iabufarha.github.io](https://www.linkedin.com/in/ibrahim-abu-farha-82720b153/)
 - [Iknoor Singh](https://www.linkedin.com/in/iknoorsingh/)
 
 ## Former PhD students
